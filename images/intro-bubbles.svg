@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1181px" height="934px" viewBox="0 0 1181 934" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>intro-bubbles</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1181" height="1054"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#E57066" offset="0%"></stop>
+            <stop stop-color="#FC3C2D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#B18AE0" offset="0%"></stop>
+            <stop stop-color="#9357A9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#B7E3E4" offset="0%"></stop>
+            <stop stop-color="#A6CFE2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2-Copy-6" transform="translate(0.000000, -420.000000)">
+            <g id="intro-bubbles" transform="translate(0.000000, 336.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g id="Group-3" mask="url(#mask-2)">
+                    <g transform="translate(-210.000000, 84.000000)">
+                        <circle id="Oval-2" fill="url(#linearGradient-3)" cx="1252" cy="344" r="344"></circle>
+                        <circle id="Oval-2-Copy" fill="url(#linearGradient-4)" cx="835.5" cy="541.5" r="226.5"></circle>
+                        <circle id="Oval-2-Copy-2" fill="url(#linearGradient-5)" cx="574.5" cy="363.5" r="226.5"></circle>
+                        <circle id="Oval-2-Copy-3" fill="url(#linearGradient-5)" cx="908" cy="161" r="121"></circle>
+                        <circle id="Oval-2-Copy-6" fill="url(#linearGradient-4)" cx="358" cy="107" r="67"></circle>
+                        <circle id="Oval-2-Copy-4" fill="url(#linearGradient-4)" cx="418" cy="454" r="172"></circle>
+                        <circle id="Oval-2-Copy-5" fill="url(#linearGradient-3)" cx="246" cy="688" r="246"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
