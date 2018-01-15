@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1181px" height="400px" viewBox="0 0 1181 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>koda-and-crab</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#B18AE0" offset="0%"></stop>
+            <stop stop-color="#9357A9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#E57066" offset="0%"></stop>
+            <stop stop-color="#FC3C2D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="60.7969411%" y1="-30.2493291%" x2="40.9788548%" y2="105.607754%" id="linearGradient-3">
+            <stop stop-color="#E57066" offset="0%"></stop>
+            <stop stop-color="#FC3C2D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#E57066" offset="0%"></stop>
+            <stop stop-color="#FC3C2D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-5.70700152%" id="linearGradient-5">
+            <stop stop-color="#FC3C2D" offset="0%"></stop>
+            <stop stop-color="#E57066" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="koda-and-crab">
+            <g id="koda" transform="translate(40.000000, 97.000000)">
+                <path d="M68.0010871,178.887965 C66.6778686,178.969586 65.3437707,179.011 64,179.011 C62.6562293,179.011 61.3221314,178.969586 59.9989129,178.887965 C59.8738734,192.280728 48.9783081,203.099001 35.5559998,203.099001 C35.4371331,203.099001 35.3184646,203.098152 35.2,203.096461 L35.2,172.180335 C33.6834279,171.414832 32.2014669,170.590758 30.7570895,169.711085 C28.5830312,180.984241 18.6638799,189.499001 6.75599976,189.499001 C6.6371331,189.499001 6.5184646,189.498152 6.4,189.496461 L6.4,142.941402 C2.29978812,134.501322 2.84217094e-14,125.024733 2.84217094e-14,115.011 C2.84217094e-14,79.6647761 28.653776,51.0110001 64,51.0110001 C99.346224,51.0110001 128,79.6647761 128,115.011 C128,125.024733 125.700212,134.501322 121.6,142.941402 L121.6,189.496461 C121.481535,189.498152 121.362867,189.499001 121.244,189.499001 C109.33612,189.499001 99.4169688,180.984241 97.2429105,169.711085 C95.7985331,170.590758 94.3165721,171.414832 92.8,172.180335 L92.8,203.096461 C92.6815354,203.098152 92.5628669,203.099001 92.4440002,203.099001 C79.0216919,203.099001 68.1261266,192.280728 68.0010871,178.887965 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <circle id="Oval-17-Copy-4" fill="#B7E3E4" cx="128" cy="56" r="8"></circle>
+                <circle id="Oval-17-Copy-6" fill="#B7E3E4" cx="120" cy="8" r="8"></circle>
+                <circle id="Oval-17-Copy-5" fill="#B7E3E4" cx="140" cy="28" r="4"></circle>
+                <circle id="Combined-Shape-Copy-2" fill="#FFFFFF" cx="26.8850002" cy="111.885" r="18.8850002"></circle>
+                <circle id="Combined-Shape-Copy-6" fill="#FFFFFF" cx="100.885" cy="111.885" r="18.8850002"></circle>
+                <circle id="Combined-Shape-Copy-2" fill="#000000" cx="31.6700001" cy="111.67" r="11.6700001"></circle>
+                <circle id="Combined-Shape-Copy-7" fill="#000000" cx="105.67" cy="111.67" r="11.6700001"></circle>
+            </g>
+            <g id="coder-crab--small" transform="translate(959.000000, 293.000000)">
+                <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="39" y="28" width="2" height="20"></rect>
+                <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="65" y="28" width="2" height="20"></rect>
+                <path d="M93,82 L16,82 C16.012995,60.4586353 33.2450523,43 54.5,43 C75.7549477,43 92.987005,60.4586353 93,82 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+                <circle id="Oval-17-Copy-3" fill="#B7E3E4" cx="15.5" cy="37.5" r="7.5"></circle>
+                <circle id="Oval-17-Copy-4" fill="#B7E3E4" cx="94" cy="31" r="4"></circle>
+                <circle id="Oval-17-Copy-5" fill="#B7E3E4" cx="85" cy="2" r="2"></circle>
+                <path d="M2.00150648,101 C2.00050329,100.928348 2,100.856573 2,100.784678 C2,92.6193256 8.49187113,86 16.5,86 C24.5081289,86 31,92.6193256 31,100.784678 C31,100.856573 30.9994967,100.928348 30.9984935,101 L2.00150648,101 Z" id="Combined-Shape-Copy-3" fill="url(#linearGradient-4)" transform="translate(16.500000, 93.500000) rotate(-145.000000) translate(-16.500000, -93.500000) "></path>
+                <path d="M11.001974,92 C11.0006595,91.904464 11,91.8087636 11,91.7129034 C11,80.8257675 19.5065898,72 30,72 C40.4934102,72 49,80.8257675 49,91.7129034 C49,91.8087636 48.9993405,91.904464 48.998026,92 L11.001974,92 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-4)" transform="translate(30.000000, 82.000000) rotate(35.000000) translate(-30.000000, -82.000000) "></path>
+                <path d="M78.0015065,101 C78.0005033,100.928348 78,100.856573 78,100.784678 C78,92.6193256 84.4918711,86 92.5,86 C100.508129,86 107,92.6193256 107,100.784678 C107,100.856573 106.999497,100.928348 106.998494,101 L78.0015065,101 Z" id="Combined-Shape-Copy-3" fill="url(#linearGradient-5)" transform="translate(92.500000, 93.500000) scale(-1, 1) rotate(-145.000000) translate(-92.500000, -93.500000) "></path>
+                <path d="M60.001974,92 C60.0006595,91.904464 60,91.8087636 60,91.7129034 C60,80.8257675 68.5065898,72 79,72 C89.4934102,72 98,80.8257675 98,91.7129034 C98,91.8087636 97.9993405,91.904464 97.998026,92 L60.001974,92 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-4)" transform="translate(79.000000, 82.000000) scale(-1, 1) rotate(35.000000) translate(-79.000000, -82.000000) "></path>
+                <g id="Group" transform="translate(30.000000, 9.000000)">
+                    <g transform="translate(0.026525, 0.281614)" id="Combined-Shape-Copy-2">
+                        <ellipse fill="#FFFFFF" cx="9.49930762" cy="9.31738542" rx="9.0215954" ry="9.31738542"></ellipse>
+                        <ellipse fill="#000000" cx="5.57490166" cy="9.21130973" rx="5.57490166" ry="5.75768532"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-Copy" transform="translate(57.000000, 9.000000)">
+                    <g id="Group" transform="translate(0.026525, 0.281614)">
+                        <ellipse id="Combined-Shape-Copy-2" fill="#FFFFFF" cx="9.49930762" cy="9.31738542" rx="9.0215954" ry="9.31738542"></ellipse>
+                        <ellipse id="Combined-Shape-Copy-2" fill="#000000" cx="5.57490166" cy="9.21130973" rx="5.57490166" ry="5.75768532"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

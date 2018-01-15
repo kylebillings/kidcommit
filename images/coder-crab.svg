@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="335px" viewBox="0 0 320 335" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>coder-crab</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#E57066" offset="0%"></stop>
+            <stop stop-color="#FC3C2D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="60.7969411%" y1="-30.2493291%" x2="40.9788548%" y2="105.607754%" id="linearGradient-2">
+            <stop stop-color="#E57066" offset="0%"></stop>
+            <stop stop-color="#FC3C2D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#E57066" offset="0%"></stop>
+            <stop stop-color="#FC3C2D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-5.70700152%" id="linearGradient-4">
+            <stop stop-color="#FC3C2D" offset="0%"></stop>
+            <stop stop-color="#E57066" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard-2-Copy-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-209.000000, -719.000000)">
+        <g id="coder-crab" transform="translate(190.000000, 719.000000)">
+            <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="127" y="91" width="8" height="64"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="215" y="91" width="8" height="64"></rect>
+            <path d="M306.062463,266 L52.6236066,266 C52.6663786,196.051171 109.384208,139.359726 179.343035,139.359726 C249.301861,139.359726 306.019691,196.051171 306.062463,266 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+            <circle id="Oval-17-Copy-3" fill="#B7E3E4" cx="52.3438905" cy="124.34389" r="25.3438905"></circle>
+            <circle id="Oval-17-Copy-4" fill="#B7E3E4" cx="309.671945" cy="102.671945" r="12.6719452"></circle>
+            <circle id="Oval-17-Copy-5" fill="#B7E3E4" cx="280.335973" cy="6.33597262" r="6.33597262"></circle>
+            <path d="M5.84861825,329.849834 C5.84526976,329.615275 5.84358985,329.380312 5.84358985,329.144957 C5.84358985,302.414977 27.5125205,280.746046 54.2425012,280.746046 C80.9724818,280.746046 102.641412,302.414977 102.641412,329.144957 C102.641412,329.380312 102.639733,329.615275 102.636384,329.849834 L5.84861825,329.849834 Z" id="Combined-Shape-Copy-3" fill="url(#linearGradient-3)" transform="translate(54.242501, 305.297940) rotate(-145.000000) translate(-54.242501, -305.297940) "></path>
+            <path d="M35.6316991,299.394807 C35.6273348,299.089092 35.6251453,298.782851 35.6251453,298.476098 C35.6251453,263.637263 63.8676012,235.394807 98.7064362,235.394807 C133.545271,235.394807 161.787727,263.637263 161.787727,298.476098 C161.787727,298.782851 161.785538,299.089092 161.781173,299.394807 L35.6316991,299.394807 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-3)" transform="translate(98.706436, 267.394807) rotate(35.000000) translate(-98.706436, -267.394807) "></path>
+            <path d="M255.783639,329.849834 C255.780291,329.615275 255.778611,329.380312 255.778611,329.144957 C255.778611,302.414977 277.447542,280.746046 304.177522,280.746046 C330.907503,280.746046 352.576434,302.414977 352.576434,329.144957 C352.576434,329.380312 352.574754,329.615275 352.571405,329.849834 L255.783639,329.849834 Z" id="Combined-Shape-Copy-3" fill="url(#linearGradient-4)" transform="translate(304.177522, 305.297940) scale(-1, 1) rotate(-145.000000) translate(-304.177522, -305.297940) "></path>
+            <path d="M196.63885,299.394807 C196.634486,299.089092 196.632296,298.782851 196.632296,298.476098 C196.632296,263.637263 224.874752,235.394807 259.713587,235.394807 C294.552422,235.394807 322.794878,263.637263 322.794878,298.476098 C322.794878,298.782851 322.792689,299.089092 322.788324,299.394807 L196.63885,299.394807 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-3)" transform="translate(259.713587, 267.394807) scale(-1, 1) rotate(35.000000) translate(-259.713587, -267.394807) "></path>
+            <g id="Group" transform="translate(100.000000, 30.000000)">
+                <g transform="translate(0.087952, 0.904130)" id="Combined-Shape-Copy-2">
+                    <circle fill="#FFFFFF" cx="31.4977042" cy="29.9137111" r="29.9137111"></circle>
+                    <circle fill="#000000" cx="18.4852002" cy="29.5731523" r="18.4852002"></circle>
+                </g>
+            </g>
+            <g id="Group-Copy" transform="translate(188.000000, 30.000000)">
+                <g id="Group" transform="translate(0.087952, 0.904130)">
+                    <circle id="Combined-Shape-Copy-2" fill="#FFFFFF" cx="31.4977042" cy="29.9137111" r="29.9137111"></circle>
+                    <circle id="Combined-Shape-Copy-2" fill="#000000" cx="18.4852002" cy="29.5731523" r="18.4852002"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

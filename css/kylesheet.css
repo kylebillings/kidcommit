@@ -5,7 +5,7 @@
 	background: -webkit-linear-gradient(-45deg, #1e8ee3 0%,#46b8dd 37%,#1e8ee3 68%,#47b8dd 100%); /* Chrome10-25,Safari5.1-6 */
 	background: linear-gradient(135deg, #1e8ee3 0%,#46b8dd 37%,#1e8ee3 68%,#47b8dd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e8ee3', endColorstr='#47b8dd',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-	height: 30000px;
+	height: 35000px;
 	width: 100%;
 	color: #fff;
 }
